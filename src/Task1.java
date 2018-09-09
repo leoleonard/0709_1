@@ -6,6 +6,7 @@ public class Task1 {
         System.out.println("i");
         System.out.println("commitowania");
         System.out.println("sprawdzenie .gitignore");
+        System.out.println(".gitignore");
 
     }
 }
